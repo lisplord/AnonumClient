@@ -1,0 +1,15 @@
+<Properties StartupItem="AnonumClient.csproj">
+  <MonoDevelop.Ide.Workbench ActiveDocument="IMEvents.cs">
+    <Files>
+      <File FileName="IMClient.cs" Line="4" Column="19" />
+      <File FileName="IMEvents.cs" Line="1" Column="1" />
+    </Files>
+  </MonoDevelop.Ide.Workbench>
+  <MonoDevelop.Ide.ItemProperties.AnonumClient PreferredExecutionTarget="MonoDevelop.Default" />
+  <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug|x86" />
+  <MonoDevelop.Ide.DebuggingService.Breakpoints>
+    <BreakpointStore />
+  </MonoDevelop.Ide.DebuggingService.Breakpoints>
+  <MonoDevelop.Ide.DebuggingService.PinnedWatches />
+  <AuthorInfo Name="lisplord" Email="patchy@linux.com" Copyright="" Company="" Trademark="" />
+</Properties>
